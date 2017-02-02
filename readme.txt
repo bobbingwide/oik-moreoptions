@@ -1,0 +1,44 @@
+=== oik more options ===
+Contributors: bobbingwide
+Donate link: http://www.oik-plugins.com/oik/oik-donate/
+Tags: shortcodes, smart, lazy
+Requires at least: 3.0.4
+Tested up to: 3.5
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
+Adds a third set of options field for use with oik lazy smart shortcodes, using alt=2
+
+== Installation ==
+1. Upload the contents of the oik-moreoptions plugin to the `/wp-content/plugins/oik-moreoptions' directory
+1. Activate the oik-moreoptions plugin through the 'Plugins' menu in WordPress
+
+== Frequently Asked Questions ==
+= Where is the FAQ? =
+[oik FAQ](http://www.oik-plugins.com/oik/oik-faq)
+
+= Is there a support forum? =
+Yes - please use the standard WordPress forum - http://wordpress.org/tags/oik?forum_id=10
+
+= Can I get support? = 
+Yes - see above 
+
+== Screenshots ==
+1. oik extra shortcode options 2
+
+== Upgrade Notice ==
+= 1.0 =
+This version is dependent upon oik v1.17
+
+== Changelog == 
+= 1.0 =
+* Added: New code to provide a simple user interface for a third set of oik options, based on oik More options
+
+
+== Further reading ==
+If you want to read more about the oik plugins then please visit the
+[oik plugin](http://www.oik-plugins.com/oik) 
+**"the oik plugin - for often included key-information"**
+
