@@ -27,7 +27,8 @@ Yes - please use the standard WordPress forum - http://wordpress.org/tags/oik?fo
 Yes - see above
 
 ## Screenshots 
-1. oik extra shortcode options 2
+1. extra shortcode options 2 - top section
+2. extra shortcode options 2 - middle section
 
 ## Upgrade Notice 
 # 1.0.0 
