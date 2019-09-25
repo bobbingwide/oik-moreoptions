@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Third contact pluign
-Plugin URI: http://www.oik-plugins.com/oik-plugins/third-contact-plugin/
+Plugin URI: https://www.oik-plugins.com/oik-plugins/third-contact-plugin/
 Description: More options for more "contacts"
-Version: 1.0.0
+Version: 1.1.0
 Author: bobbingwide
-Author URI: http://www.oik-plugins.com/author/bobbingwide
+Author URI: https://www.oik-plugins.com/author/bobbingwide
 License: GPL2
 
-    Copyright 2013-2017 Bobbing Wide (email : herb@bobbingwide.com )
+    Copyright 2013-2019 Bobbing Wide (email : herb@bobbingwide.com )
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License version 2,
@@ -44,7 +44,7 @@ function oikmo_activation() {
     add_action( "after_plugin_row_" . $plugin_basename, __FUNCTION__ );   
     require_once( "admin/oik-activation.php" );
   }  
-  $depends = "oik:3.1";
+  $depends = "oik:3.3";
   oik_plugin_lazy_activation( __FILE__, $depends, "oik_plugin_plugin_inactive" );
 }
 

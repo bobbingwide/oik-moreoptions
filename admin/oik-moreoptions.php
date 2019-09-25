@@ -1,4 +1,4 @@
-<?php // (C) Copyright Bobbing Wide 2013
+<?php // (C) Copyright Bobbing Wide 2013-2019
 
 /**
  * Implements "oik_admin_menu" action for oik-moreoptions
@@ -53,7 +53,7 @@ function oik_extra_shortcode_options_2() {
 }  
   
 function oik_extra_usage_notes_2() {
-  oik_require( "includes/oik-sc-help.inc" );
+  oik_require( "includes/oik-sc-help.php" );
   p( "Use the shortcodes in your pages, widgets and titles. e.g." );
   bw_invoke_shortcode( "bw_contact", "alt=2", "Display your alternative contact name." );
   bw_invoke_shortcode( "bw_email", "alt=2 prefix=e-mail", "Display your alternative email address, with a prefix of 'e-mail'." );
