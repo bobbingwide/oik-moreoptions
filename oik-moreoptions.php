@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Third contact pluign
+Plugin Name: Third contact plugin
 Plugin URI: https://www.oik-plugins.com/oik-plugins/third-contact-plugin/
 Description: More options for more "contacts"
 Version: 1.1.0

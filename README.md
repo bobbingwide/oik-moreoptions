@@ -1,11 +1,11 @@
 # oik more options 
 ![banner](https://raw.githubusercontent.com/bobbingwide/oik-moreoptions/master/assets/oik-moreoptions-banner-772x250.jpg)
 * Contributors: bobbingwide
-* Donate link: http://www.oik-plugins.com/oik/oik-donate/
+* Donate link: https://www.oik-plugins.com/oik/oik-donate/
 * Tags: shortcodes, smart, lazy
-* Requires at least: 4.5
-* Tested up to: 4.7.2
-* Stable tag: 1.0.0
+* Requires at least: 5.0
+* Tested up to: 5.2
+* Stable tag: 1.1.0
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,10 +18,10 @@ Adds a third set of options field for use with oik lazy smart shortcodes, using 
 
 ## Frequently Asked Questions 
 # Where is the FAQ? 
-[oik FAQ](http://www.oik-plugins.com/oik/oik-faq)
+[oik FAQ](https://www.oik-plugins.com/oik/oik-faq)
 
 # Is there a support forum? 
-Yes - please use the standard WordPress forum - http://wordpress.org/tags/oik?forum_id=10
+Yes - please use the standard WordPress forum - https://wordpress.org/tags/oik?forum_id=10
 
 # Can I get support? 
 Yes - see above
@@ -31,6 +31,9 @@ Yes - see above
 2. extra shortcode options 2 - middle section
 
 ## Upgrade Notice 
+# 1.1.0 
+Now dependent upon oik v3.3
+
 # 1.0.0 
 Now dependent upon oik v3.1
 
@@ -38,6 +41,11 @@ Now dependent upon oik v3.1
 This version is dependent upon oik v1.17
 
 ## Changelog 
+# 1.1.0 
+* Changed: Include .php file for oik 3.3,https://github.com/bobbingwide/oik-moreoptions/issues/1
+* Tested: With WordPress 5.2 and WordPress Multi Site
+* Tested: With PHP 7.3
+
 # 1.0.0 
 * Changed: Now dependent upon oik v3.1
 * Tested: With WordPress 4.7.2 and WordPress Multisite
@@ -48,6 +56,6 @@ This version is dependent upon oik v1.17
 
 ## Further reading 
 If you want to read more about the oik plugins then please visit the
-[oik plugin](http://www.oik-plugins.com/oik)
+[oik plugin](https://www.oik-plugins.com/oik)
 **"the oik plugin - for often included key-information"**
 
